@@ -1,0 +1,25 @@
+# There must be a top-level key called "fields"
+fields:
+  
+  # There must be a nested key called "segments" that lists the metadata fields that apply to entire segments of a video
+  segments:
+      
+    -
+      # Each field must have a unique name
+      name: Annotation
+      type: string
+      values:
+        - ignore
+        - A
+        - B
+        - C
+
+      # Each field must have a datatype (supported types are boolean, float, int, and string)
+      
+      # You can define a list of valid values for a field instead of allowing arbitrary values
+  
+  # There must be a nested key called "frames" that lists the metadata fields that apply to individual frames within a segment
+  frames:
+    -
+      name: Leave Empty
+      type: string
