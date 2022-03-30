@@ -1,0 +1,246 @@
+{
+    "video": "2022-03-18 17-07-41.mp4",
+    "schema": "annotation schema.yml",
+    "segments": [
+        {
+            "start": 0,
+            "end": 5.183333333333334,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 5.2,
+            "end": 6.1,
+            "metadata": {
+                "Annotation": "A"
+            },
+            "frames": []
+        },
+        {
+            "start": 6.116666666666666,
+            "end": 11.316666666666666,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 11.333333333333334,
+            "end": 12.25,
+            "metadata": {
+                "Annotation": "B"
+            },
+            "frames": []
+        },
+        {
+            "start": 12.266666666666667,
+            "end": 18.566666666666666,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 18.583333333333332,
+            "end": 19.3,
+            "metadata": {
+                "Annotation": "C"
+            },
+            "frames": []
+        },
+        {
+            "start": 23.533333333333335,
+            "end": 25.183333333333334,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 25.666666666666668,
+            "end": 27.616666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 28.7,
+            "end": 29.3,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 31.933333333333334,
+            "end": 33.15,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 33.81666666666667,
+            "end": 35.5,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 41.36666666666667,
+            "end": 45.36666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 47.65,
+            "end": 48.016666666666666,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 48.516666666666666,
+            "end": 50.78333333333333,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 54.333333333333336,
+            "end": 54.61666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 55.65,
+            "end": 58.25,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 59.35,
+            "end": 59.7,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 63.11666666666667,
+            "end": 63.81666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 67.05,
+            "end": 67.55,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 70.31666666666666,
+            "end": 71.08333333333333,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 77.5,
+            "end": 77.83333333333333,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 77.93333333333334,
+            "end": 79.78333333333333,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 81.8,
+            "end": 83.55,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 86.41666666666667,
+            "end": 88.31666666666666,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 89.98333333333333,
+            "end": 91.28333333333333,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 92.5,
+            "end": 92.91666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 93.83333333333333,
+            "end": 94.35,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 94.65,
+            "end": 94.9,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 101.36666666666666,
+            "end": 101.76666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        },
+        {
+            "start": 106.15,
+            "end": 106.76666666666667,
+            "metadata": {
+                "Annotation": "ignore"
+            },
+            "frames": []
+        }
+    ]
+}
