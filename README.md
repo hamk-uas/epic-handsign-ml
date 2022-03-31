@@ -17,10 +17,13 @@ Intermediate output data files:
 - <a href="2022-03-18 17-07-41 timestamps.csv">`2022-03-18 17-07-41 timestamps.csv`</a> - Video timestamp OCR result from `video-timestamp-ocr.ipynb`, needed by `package-training-data.ipynb`
 
 Output image files for visualization:
-- <a href="frame0.png">`frame0.png`</a> - Sample video frame from `video-timestamp-ocr.ipynb`
+- <a href="frame0.png">`frame0.png`</a> - Sample video frame from `video-timestamp-ocr.ipynb`:
+<img src="frame0.png">
 - <a href="frame0_crop.png">`frame0_crop.png`</a> - Sample cropped video timestamp from `video-timestamp-ocr.ipynb`
+<img src="frame0_crop.png">
 - <a href="training data preprocessing result.svg">`training data preprocessing result.svg`</a> - Summary of training data preprocessing from `package-training-data.ipynb`
 - <a href="training data preprocessing result (edit).svg">`training data preprocessing result (edit).svg`</a> - The same, with SVG errors fixed
+<img src="training data preprocessing result (edit).svg">
 
 Output data files:
 - <a href="2022-03-18 17-07-41 training data.csv">`2022-03-18 17-07-41 training data.csv`</a> - Preprocessed training data from `package-training-data.ipynb`
