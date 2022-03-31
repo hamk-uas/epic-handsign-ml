@@ -4,26 +4,26 @@ Machine learning to infer sign language letters from hand tracking data
 <img alt="Preprocessing worklfow" src="preprocessing workflow.svg"/>
 
 Notebooks:
-- [`video-timestamp-ocr.ipynb`](video-timestamp-ocr.ipynb) - Optical character recognition (OCR) of spectator camera video timestamps
-- [`package-training-data.ipynb`](package-training-data.ipynb) - Preprocess and package training data
-- [`gesture-classification-demo.ipynb`](gesture-classification-demo.ipynb) - Training data augmentation and machine learning model training
+- <a href="video-timestamp-ocr.ipynb">`video-timestamp-ocr.ipynb`</a> - Optical character recognition (OCR) of spectator camera video timestamps
+- <a href="package-training-data.ipynb">`package-training-data.ipynb`</a> - Preprocess and package training data
+- <a href="gesture-classification-demo.ipynb">`gesture-classification-demo.ipynb`</a> - Training data augmentation and machine learning model training
 
 Input data files:
 - <a href="annotation schema.yml">`annotation schema.yml`</a> - Annotation schema for VideoAnnotator and `package-training-data.ipynb`
-- [`2022-03-18 17-07-41 annotation.json`](2022-03-18 17-07-41 annotation.json) - Manual annotation data from VideoAnnotator, needed by `package-training-data.ipynb`
-- [`2022-03-18 17-07-41 hand tracking data.csv`](2022-03-18 17-07-41 hand tracking data.csv) - Hand tracking data, needed by `package-training-data.ipynb`
+- <a href="2022-03-18 17-07-41 annotation.json">`2022-03-18 17-07-41 annotation.json`</a> - Manual annotation data from VideoAnnotator, needed by `package-training-data.ipynb`
+- <a href="2022-03-18 17-07-41 hand tracking data.csv">`2022-03-18 17-07-41 hand tracking data.csv`</a> - Hand tracking data, needed by `package-training-data.ipynb`
 
 Intermediate output data files:
-- [`2022-03-18 17-07-41 timestamps.csv`](2022-03-18 17-07-41 timestamps.csv) - Video timestamp OCR result from `video-timestamp-ocr.ipynb`, needed by `package-training-data.ipynb`
+- <a href="2022-03-18 17-07-41 timestamps.csv">`2022-03-18 17-07-41 timestamps.csv`</a> - Video timestamp OCR result from `video-timestamp-ocr.ipynb`, needed by `package-training-data.ipynb`
 
 Output image files for visualization:
-- [`frame0.png`](frame0.png) - Sample video frame from `video-timestamp-ocr.ipynb`
-- [`frame0_crop.png`](frame0_crop.png) - Sample cropped video timestamp from `video-timestamp-ocr.ipynb`
-- [`training data preprocessing result.svg`](training data preprocessing result.svg) - Summary of training data preprocessing from `package-training-data.ipynb`
-- [`training data preprocessing result (edit).svg`](training data preprocessing result (edit).svg) - The same, with SVG errors fixed
+- <a href="frame0.png">`frame0.png`</a> - Sample video frame from `video-timestamp-ocr.ipynb`
+- <a href="frame0_crop.png">`frame0_crop.png`</a> - Sample cropped video timestamp from `video-timestamp-ocr.ipynb`
+- <a href="training data preprocessing result.svg">`training data preprocessing result.svg`</a> - Summary of training data preprocessing from `package-training-data.ipynb`
+- <a href="training data preprocessing result (edit).svg">`training data preprocessing result (edit).svg`</a> - The same, with SVG errors fixed
 
 Output data files:
-- [`2022-03-18 17-07-41 training data.csv`](2022-03-18 17-07-41 training data.csv) - Preprocessed training data from `package-training-data.ipynb`
+- <a href="2022-03-18 17-07-41 training data.csv">`2022-03-18 17-07-41 training data.csv`</a> - Preprocessed training data from `package-training-data.ipynb`
 
 ## Copyright
 
