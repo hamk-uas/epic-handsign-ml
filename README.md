@@ -10,7 +10,7 @@ Notebooks:
 
 Input data files:
 - <a href="2022-03-18 17-07-41.mp4">`2022-03-18 17-07-41.mp4`</a> - Time-stamped spectator camera video recorded simultaneously with hand tracking data, needed by `video-timestamp-ocr.ipynb`
-- <a href="annotation schema.yml">`annotation schema.yml`</a> - Annotation schema for VideoAnnotator and `package-training-data.ipynb`
+- <a href="annotation schema.yml">`annotation schema.yml`</a> - Annotation schema for <a href="https://github.com/adamrehn/VideoAnnotator">VideoAnnotator</a> and `package-training-data.ipynb`
 - <a href="2022-03-18 17-07-41 annotation.json">`2022-03-18 17-07-41 annotation.json`</a> - Manual annotation data from VideoAnnotator, needed by `package-training-data.ipynb`
 - <a href="2022-03-18 17-07-41 hand tracking data.csv">`2022-03-18 17-07-41 hand tracking data.csv`</a> - Time-stamped hand tracking data, needed by `package-training-data.ipynb`
 
