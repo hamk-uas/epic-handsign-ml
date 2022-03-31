@@ -9,9 +9,10 @@ Notebooks:
 - <a href="gesture-classification-demo.ipynb">`gesture-classification-demo.ipynb`</a> - Training data augmentation and machine learning model training
 
 Input data files:
+- <a href="2022-03-18 17-07-41.mp4">`2022-03-18 17-07-41.mp4`</a> - Time-stamped spectator camera video recorded simultaneously with hand tracking data, needed by `video-timestamp-ocr.ipynb`
 - <a href="annotation schema.yml">`annotation schema.yml`</a> - Annotation schema for VideoAnnotator and `package-training-data.ipynb`
 - <a href="2022-03-18 17-07-41 annotation.json">`2022-03-18 17-07-41 annotation.json`</a> - Manual annotation data from VideoAnnotator, needed by `package-training-data.ipynb`
-- <a href="2022-03-18 17-07-41 hand tracking data.csv">`2022-03-18 17-07-41 hand tracking data.csv`</a> - Hand tracking data, needed by `package-training-data.ipynb`
+- <a href="2022-03-18 17-07-41 hand tracking data.csv">`2022-03-18 17-07-41 hand tracking data.csv`</a> - Time-stamped hand tracking data, needed by `package-training-data.ipynb`
 
 Intermediate output data files:
 - <a href="2022-03-18 17-07-41 timestamps.csv">`2022-03-18 17-07-41 timestamps.csv`</a> - Video timestamp OCR result from `video-timestamp-ocr.ipynb`, needed by `package-training-data.ipynb`
