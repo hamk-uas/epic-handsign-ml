@@ -27,7 +27,7 @@ Output data files:
 
 ## Copyright
 
-Copyright 2022 Häme University of Applied Sciences (HAMK)
+Copyright 2022, Häme University of Applied Sciences (HAMK), Finland
 
 ## Authors
 
