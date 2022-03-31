@@ -1,6 +1,11 @@
 # epic-handsign-ml
 Machine learning to infer sign language letters from hand tracking data
 
+Copyright 2022 Häme University of Applied Sciences (HAMK)
+Authors:
+- Olli Niemitalo (Olli.Niemitalo@hamk.fi)
+- Wangkang Jin
+
 <img alt="Preprocessing worklfow" src="preprocessing workflow.svg"/>
 
 Notebooks:
