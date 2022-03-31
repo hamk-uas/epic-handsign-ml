@@ -1,7 +1,7 @@
 # epic-handsign-ml
 Machine learning to infer sign language letters from hand tracking data
 
-<img alt="Preprocessing worklfow" src="preprocessing workflow.svg"/>
+<img alt="Preprocessing worklfow" src="preprocessing workflow.svg">
 
 Notebooks:
 - <a href="video-timestamp-ocr.ipynb">`video-timestamp-ocr.ipynb`</a> - Optical character recognition (OCR) of spectator camera video timestamps
@@ -18,11 +18,16 @@ Intermediate output data files:
 
 Output image files for visualization:
 - <a href="frame0.png">`frame0.png`</a> - Sample video frame from `video-timestamp-ocr.ipynb`:
+
 <img src="frame0.png">
+
 - <a href="frame0_crop.png">`frame0_crop.png`</a> - Sample cropped video timestamp from `video-timestamp-ocr.ipynb`:
+
 <img src="frame0_crop.png">
+
 - <a href="training data preprocessing result.svg">`training data preprocessing result.svg`</a> - Summary of training data preprocessing from `package-training-data.ipynb`
 - <a href="training data preprocessing result (edit).svg">`training data preprocessing result (edit).svg`</a> - The same, with SVG errors fixed:
+
 <img src="training data preprocessing result (edit).svg">
 
 Output data files:
