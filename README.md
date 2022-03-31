@@ -1,7 +1,7 @@
 # epic-handsign-ml
 Machine learning to infer sign language letters from hand tracking data
 
-![Preprocessing worklfow](/preprocessing workflow.svg)
+<img alt="Preprocessing worklfow" src="preprocessing workflow.svg"/>
 
 Notebooks:
 - `video-timestamp-ocr.ipynb` - Optical character recognition (OCR) of spectator camera video timestamps
