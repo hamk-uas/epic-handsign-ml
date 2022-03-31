@@ -9,7 +9,7 @@ Notebooks:
 - [`gesture-classification-demo.ipynb`](gesture-classification-demo.ipynb) - Training data augmentation and machine learning model training
 
 Input data files:
-- [annotation schema.yml]('annotation schema.yml') - Annotation schema for VideoAnnotator and `package-training-data.ipynb`
+- [`annotation schema.yml`](annotation schema.yml) - Annotation schema for VideoAnnotator and `package-training-data.ipynb`
 - [`2022-03-18 17-07-41 annotation.json`](2022-03-18 17-07-41 annotation.json) - Manual annotation data from VideoAnnotator, needed by `package-training-data.ipynb`
 - [`2022-03-18 17-07-41 hand tracking data.csv`](2022-03-18 17-07-41 hand tracking data.csv) - Hand tracking data, needed by `package-training-data.ipynb`
 
