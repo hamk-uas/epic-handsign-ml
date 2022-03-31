@@ -29,8 +29,9 @@ Output data files:
 
 Copyright 2022, Häme University of Applied Sciences (HAMK), Finland
 
-## Authors
+## Authors' contributions
 
-- Olli Niemitalo (Olli.Niemitalo@hamk.fi)
-- Wangkang Jin
+- Olli Niemitalo (Olli.Niemitalo@hamk.fi) - Training data preprocessing
+- Wangkang Jin - Machine learning training
+- Gert Hattingh - Video annotation data
 
