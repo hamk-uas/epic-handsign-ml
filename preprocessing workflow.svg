@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="169.33333mm"
+   height="86.518745mm"
+   viewBox="0 0 169.33333 86.518745"
+   version="1.1"
+   id="svg23961"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Preprocessing workflow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23963"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="462.09494"
+     inkscape:cy="485.03104"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24074" />
+  <defs
+     id="defs23958">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="-1"
+         width="640"
+         height="328"
+         id="rect23965" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.199118,-20.281491)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.199118,20.281491)"
+       id="g24074">
+      <rect
+         x="0"
+         y="0"
+         width="640"
+         height="327"
+         fill="#ffffff"
+         id="rect23970" />
+      <path
+         d="M 1.16264e-7,-0.333333 294.333,-0.333231 V 0.333436 L -1.16264e-7,0.333333 Z M 293,-3.9999 301,1.04987e-4 293,4.0001 Z"
+         fill="#4472c4"
+         transform="matrix(1,0,0,-1,54.5001,23.5002)"
+         id="path23972" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(53.9999,18)"
+         id="text23976">Time<tspan
+   font-size="15px"
+   x="29.526699"
+   y="0"
+   id="tspan23974">-</tspan>stamped hand tracking data</text>
+      <path
+         d="m 51.5001,152.167 h 39.3333 v 0.666 H 51.5001 Z m 38,-3.667 8,4 -8.0001,4 z"
+         fill="#4472c4"
+         id="path23978" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(54.8976,144)"
+         id="text23980">Video</text>
+      <path
+         d="m 97.5001,91.3337 c 0,-9.297 7.5369,-16.8336 16.8339,-16.8336 h 122.332 c 9.297,0 16.834,7.5366 16.834,16.8336 v 67.3323 c 0,9.297 -7.537,16.834 -16.834,16.834 H 114.334 c -9.297,0 -16.8339,-7.537 -16.8339,-16.834 z"
+         stroke="#2f528f"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4472c4"
+         fill-rule="evenodd"
+         id="path23982" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text23990"
+         x="117.689"
+         y="94">Manual annotation <tspan
+   font-size="15px"
+   x="106.6423"
+   y="114"
+   id="tspan23984">using video annotation</tspan><tspan
+   font-size="15px"
+   x="163.0757"
+   y="133"
+   id="tspan23986">tool</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="113.349"
+   y="163"
+   id="tspan23988">VideoAnnotator</tspan></text>
+      <path
+         d="m 253.5,97.1667 95.436,10e-5 v 0.6667 l -95.436,-1e-4 z m 94.102,-3.6665 8,4 -8,3.9998 z"
+         fill="#4472c4"
+         id="path23992" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(260.898,112)"
+         id="text23996">Manual <tspan
+   font-size="15px"
+   x="0"
+   y="19"
+   id="tspan23994">annotation</tspan></text>
+      <path
+         d="m 81.5001,152.5 1e-4,87.551"
+         stroke="#4472c4"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path23998" />
+      <path
+         d="m 81.5001,240.167 h 10.3333 v 0.666 H 81.5001 Z m 9,-3.667 8,4 -8.0001,4 z"
+         fill="#4472c4"
+         id="path24000" />
+      <path
+         d="m 98.5001,211.667 c 0,-8.929 7.2379,-16.167 16.1669,-16.167 h 122.666 c 8.929,0 16.167,7.238 16.167,16.167 v 64.666 c 0,8.929 -7.238,16.167 -16.167,16.167 H 114.667 c -8.929,0 -16.1669,-7.238 -16.1669,-16.167 z"
+         stroke="#2f528f"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4472c4"
+         fill-rule="evenodd"
+         id="path24002" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(124.342,215)"
+         id="text24020">Optical character <tspan
+   font-size="15px"
+   x="-1.77334"
+   y="19"
+   id="tspan24004">recognition (OCR)</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="-19.293301"
+   y="48"
+   id="tspan24006">video</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="24.706699"
+   y="48"
+   id="tspan24008">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="33.506699"
+   y="48"
+   id="tspan24010">timestamp</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="112.707"
+   y="48"
+   id="tspan24012">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="11.5067"
+   y="67"
+   id="tspan24014">ocr.ipynb</tspan><tspan
+   fill="#000000"
+   font-size="15px"
+   x="136.55499"
+   y="0"
+   id="tspan24016">Video</tspan><tspan
+   fill="#000000"
+   font-size="15px"
+   x="136.55499"
+   y="19"
+   id="tspan24018">timestamps</tspan></text>
+      <path
+         d="m 356.5,16.9782 c 0,-6.8915 5.587,-12.47815 12.478,-12.47815 h 188.044 c 6.891,0 12.478,5.58665 12.478,12.47815 V 125.022 c 0,6.891 -5.587,12.478 -12.478,12.478 H 368.978 c -6.891,0 -12.478,-5.587 -12.478,-12.478 z"
+         stroke="#2f528f"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4472c4"
+         fill-rule="evenodd"
+         id="path24022" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(391.52,33)"
+         id="text24038">Preprocess and transfer <tspan
+   font-size="15px"
+   x="-30.706699"
+   y="19"
+   id="tspan24024">annotation from video annotation</tspan><tspan
+   font-size="15px"
+   x="7.3266602"
+   y="38"
+   id="tspan24026">to hand tracking data</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="-3.8200099"
+   y="66"
+   id="tspan24028">package</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="57.779999"
+   y="66"
+   id="tspan24030">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="66.580002"
+   y="66"
+   id="tspan24032">training</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="136.98"
+   y="66"
+   id="tspan24034">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="26.98"
+   y="85"
+   id="tspan24036">data.ipynb</tspan></text>
+      <path
+         d="M 0.3333,-0.00470164 1.23937,64.2269 0.572772,64.2364 -0.3333,0.00470164 Z M 4.88687,62.842 1.0001,70.8976 -3.11234,62.9549 Z"
+         fill="#4472c4"
+         transform="matrix(-1,0,0,1,419.5,137.5)"
+         id="path24040" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(425.897,156)"
+         id="text24044">Preprocessed training <tspan
+   font-size="15px"
+   x="0"
+   y="19"
+   id="tspan24042">data</tspan></text>
+      <path
+         d="m 52.5001,63.1667 296.3329,1e-4 v 0.6667 L 52.5001,63.8334 Z M 347.5,59.5002 l 8,4 -8,4 z"
+         fill="#4472c4"
+         id="path24046" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(54.8975,56)"
+         id="text24048">Annotation schema (”A”, ”B”, ”C”, “ignore”)</text>
+      <path
+         d="m 81.5001,63.5001 1e-4,53.5329"
+         stroke="#4472c4"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path24050" />
+      <path
+         d="m 81.5001,117.167 h 9.3333 v 0.666 h -9.3333 z m 8,-3.667 8,4 -8.0001,4 z"
+         fill="#4472c4"
+         id="path24052" />
+      <path
+         d="m 356.5,217.882 c 0,-5.182 4.201,-9.382 9.382,-9.382 h 192.236 c 5.182,0 9.382,4.2 9.382,9.382 v 81.236 c 0,5.182 -4.2,9.382 -9.382,9.382 H 365.882 c -5.181,0 -9.382,-4.2 -9.382,-9.382 z"
+         stroke="#2f528f"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4472c4"
+         fill-rule="evenodd"
+         id="path24054" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(384.967,239)"
+         id="text24066">Machine learning training<tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="-24.6667"
+   y="29"
+   id="tspan24056">gesture</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="36.9333"
+   y="29"
+   id="tspan24058">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="45.733299"
+   y="29"
+   id="tspan24060">classification</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="168.933"
+   y="29"
+   id="tspan24062">-</tspan><tspan
+   fill="#000000"
+   font-family="'Courier New', 'Courier New_MSFontService', sans-serif"
+   font-size="15px"
+   x="32.533401"
+   y="47"
+   id="tspan24064">demo.ipynb</tspan></text>
+      <path
+         d="M 0,0 85,1.04987e-4"
+         stroke="#4472c4"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,254.5,246.5)"
+         id="path24068" />
+      <path
+         d="M 0,0 1.04987e-4,124.119"
+         stroke="#4472c4"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,338.5,246.619)"
+         id="path24070" />
+      <path
+         d="m 338.5,122.167 h 11.333 v 0.666 H 338.5 Z m 10,-3.667 8,4 -8,4 z"
+         fill="#4472c4"
+         id="path24072" />
+    </g>
+  </g>
+</svg>
