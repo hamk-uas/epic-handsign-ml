@@ -42,8 +42,8 @@ Copyright 2022, Häme University of Applied Sciences (HAMK), Finland
 ## Authors' contributions
 
 - Tiina Ahola - Training data collection
-- Gert Hattingh - Video annotation data
-- Wangkang Jin - Machine learning training
+- Gert Hattingh - Video annotation
+- Wangkang Jin - Machine learning
 - Toni Lavonen - Training data collection
 - Olli Niemitalo (Olli.Niemitalo@hamk.fi) - Training data preprocessing
-- Roman Tsypin - Video annotation schema
+- Roman Tsypin - Video annotation planning and scema
