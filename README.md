@@ -1,6 +1,6 @@
 # epic-handsign-ml
 <img alt="Preprocessing worklfow" src="preprocessing workflow.svg">
-Machine learning to infer sign language letters from hand tracking data
+Machine learning to infer sign language letters from Oculus Quest 2 hand tracking data
 
 ## Files
 
